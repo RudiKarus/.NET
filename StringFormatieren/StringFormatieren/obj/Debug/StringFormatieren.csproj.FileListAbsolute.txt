@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\bin\Debug\StringFormatieren.exe.config
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\bin\Debug\StringFormatieren.exe
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\bin\Debug\StringFormatieren.pdb
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.Form1.resources
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.Properties.Resources.resources
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.csproj.GenerateResource.cache
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.exe
+C:\Users\info\source\repos\StringFormatieren\StringFormatieren\obj\Debug\StringFormatieren.pdb
