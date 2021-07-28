@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.exe.config
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.exe
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.pdb
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.Form1.resources
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.Properties.Resources.resources
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.csproj.GenerateResource.cache
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.exe
+C:\Users\info\source\repos\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.pdb
