@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Listenansicht\Listenansicht\bin\Debug\Listenansicht.exe.config
+C:\Users\info\source\repos\Listenansicht\Listenansicht\bin\Debug\Listenansicht.exe
+C:\Users\info\source\repos\Listenansicht\Listenansicht\bin\Debug\Listenansicht.pdb
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.Form1.resources
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.Properties.Resources.resources
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.exe
+C:\Users\info\source\repos\Listenansicht\Listenansicht\obj\Debug\Listenansicht.pdb
