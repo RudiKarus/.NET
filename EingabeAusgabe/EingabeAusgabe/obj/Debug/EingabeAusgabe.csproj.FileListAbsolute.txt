@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\bin\Debug\EingabeAusgabe.exe.config
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\bin\Debug\EingabeAusgabe.exe
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\bin\Debug\EingabeAusgabe.pdb
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.Form1.resources
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.Properties.Resources.resources
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.csproj.GenerateResource.cache
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.exe
+C:\Users\info\source\repos\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.pdb
