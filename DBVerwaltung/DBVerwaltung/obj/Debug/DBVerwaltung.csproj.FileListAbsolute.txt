@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\bin\Debug\DBVerwaltung.exe.config
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\bin\Debug\DBVerwaltung.exe
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\bin\Debug\DBVerwaltung.pdb
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.Form1.resources
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.Properties.Resources.resources
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.exe
+C:\Users\info\source\repos\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.pdb
