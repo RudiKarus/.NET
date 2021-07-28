@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe.config
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.pdb
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Form1.resources
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Properties.Resources.resources
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.GenerateResource.cache
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.exe
+C:\Users\info\source\repos\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.pdb
