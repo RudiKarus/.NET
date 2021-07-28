@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\bin\Debug\DateiSicherLesen.exe.config
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\bin\Debug\DateiSicherLesen.exe
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\bin\Debug\DateiSicherLesen.pdb
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\obj\Debug\DateiSicherLesen.Form1.resources
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\obj\Debug\DateiSicherLesen.Properties.Resources.resources
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\obj\Debug\DateiSicherLesen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\obj\Debug\DateiSicherLesen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\obj\Debug\DateiSicherLesen.exe
+C:\Users\info\source\repos\DateiSicherLesen\DateiSicherLesen\obj\Debug\DateiSicherLesen.pdb
