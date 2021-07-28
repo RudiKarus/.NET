@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Optionen\Optionen\bin\Debug\Optionen.exe.config
+C:\Users\info\source\repos\Optionen\Optionen\bin\Debug\Optionen.exe
+C:\Users\info\source\repos\Optionen\Optionen\bin\Debug\Optionen.pdb
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.Form1.resources
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.Properties.Resources.resources
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.exe
+C:\Users\info\source\repos\Optionen\Optionen\obj\Debug\Optionen.pdb
