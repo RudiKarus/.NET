@@ -1,0 +1,10 @@
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\bin\Debug\TastaturMaus.exe.config
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\bin\Debug\TastaturMaus.exe
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\bin\Debug\TastaturMaus.pdb
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.csprojResolveAssemblyReference.cache
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.Form1.resources
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.Properties.Resources.resources
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.csproj.GenerateResource.cache
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.csproj.CoreCompileInputs.cache
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.exe
+E:\OneDrive\_PROJEKT\_e-LD\_C#\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.pdb
