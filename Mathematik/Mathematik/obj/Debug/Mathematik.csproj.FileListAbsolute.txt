@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Mathematik\Mathematik\bin\Debug\Mathematik.exe.config
+C:\Users\info\source\repos\Mathematik\Mathematik\bin\Debug\Mathematik.exe
+C:\Users\info\source\repos\Mathematik\Mathematik\bin\Debug\Mathematik.pdb
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.Form1.resources
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.Properties.Resources.resources
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.exe
+C:\Users\info\source\repos\Mathematik\Mathematik\obj\Debug\Mathematik.pdb
