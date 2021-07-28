@@ -1,1 +1,4 @@
-C#  
+C#
+- Windows Forms
+- WPF
+- Konsolenanwendung
