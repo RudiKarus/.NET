@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Schieberegler\Schieberegler\bin\Debug\Schieberegler.exe.config
+C:\Users\info\source\repos\Schieberegler\Schieberegler\bin\Debug\Schieberegler.exe
+C:\Users\info\source\repos\Schieberegler\Schieberegler\bin\Debug\Schieberegler.pdb
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.Form1.resources
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.Properties.Resources.resources
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.exe
+C:\Users\info\source\repos\Schieberegler\Schieberegler\obj\Debug\Schieberegler.pdb
