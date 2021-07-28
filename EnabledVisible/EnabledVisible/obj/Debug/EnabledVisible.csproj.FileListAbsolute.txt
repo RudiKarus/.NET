@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.exe.config
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.exe
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.pdb
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.Form1.resources
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.Properties.Resources.resources
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.csproj.GenerateResource.cache
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.exe
+C:\Users\info\source\repos\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.pdb
