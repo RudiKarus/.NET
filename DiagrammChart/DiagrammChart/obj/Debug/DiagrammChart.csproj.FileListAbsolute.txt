@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\bin\Debug\DiagrammChart.exe.config
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\bin\Debug\DiagrammChart.exe
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\bin\Debug\DiagrammChart.pdb
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.Form1.resources
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.Properties.Resources.resources
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.exe
+C:\Users\info\source\repos\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.pdb
