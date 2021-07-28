@@ -1,0 +1,7 @@
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.exe.config
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.exe
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.pdb
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.exe
+C:\Users\info\source\repos\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.pdb
