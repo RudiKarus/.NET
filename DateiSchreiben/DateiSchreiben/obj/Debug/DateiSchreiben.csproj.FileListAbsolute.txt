@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\bin\Debug\DateiSchreiben.exe.config
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\bin\Debug\DateiSchreiben.exe
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\bin\Debug\DateiSchreiben.pdb
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\obj\Debug\DateiSchreiben.Form1.resources
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\obj\Debug\DateiSchreiben.Properties.Resources.resources
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\obj\Debug\DateiSchreiben.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\obj\Debug\DateiSchreiben.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\obj\Debug\DateiSchreiben.exe
+C:\Users\info\source\repos\DateiSchreiben\DateiSchreiben\obj\Debug\DateiSchreiben.pdb
