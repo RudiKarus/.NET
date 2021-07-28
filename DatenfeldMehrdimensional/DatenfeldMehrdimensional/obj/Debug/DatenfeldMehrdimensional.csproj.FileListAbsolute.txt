@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.exe.config
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.exe
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.pdb
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.Form1.resources
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.Properties.Resources.resources
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.exe
+C:\Users\info\source\repos\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.pdb
