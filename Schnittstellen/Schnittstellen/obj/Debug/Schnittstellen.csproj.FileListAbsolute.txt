@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\bin\Debug\Schnittstellen.exe.config
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\bin\Debug\Schnittstellen.exe
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\bin\Debug\Schnittstellen.pdb
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.Form1.resources
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.Properties.Resources.resources
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.exe
+C:\Users\info\source\repos\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.pdb
