@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.exe.config
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.exe
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.pdb
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.Form1.resources
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.Properties.Resources.resources
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.exe
+C:\Users\info\source\repos\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.pdb
