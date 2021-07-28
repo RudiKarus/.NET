@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\bin\Debug\Kombinationsfeld.exe.config
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\bin\Debug\Kombinationsfeld.exe
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\bin\Debug\Kombinationsfeld.pdb
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.Form1.resources
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.Properties.Resources.resources
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.exe
+C:\Users\info\source\repos\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.pdb
