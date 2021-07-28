@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\bin\Debug\StringErsetzen.exe.config
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\bin\Debug\StringErsetzen.exe
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\bin\Debug\StringErsetzen.pdb
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.Form1.resources
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.Properties.Resources.resources
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.exe
+C:\Users\info\source\repos\StringErsetzen\StringErsetzen\obj\Debug\StringErsetzen.pdb
