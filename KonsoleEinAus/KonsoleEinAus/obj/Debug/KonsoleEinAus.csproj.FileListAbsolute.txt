@@ -1,0 +1,7 @@
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.exe.config
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.exe
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.pdb
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.exe
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.pdb
+C:\Users\info\source\repos\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.csprojResolveAssemblyReference.cache
