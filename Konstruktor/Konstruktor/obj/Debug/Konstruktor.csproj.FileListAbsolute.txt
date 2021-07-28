@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe.config
+C:\Users\info\source\repos\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe
+C:\Users\info\source\repos\Konstruktor\Konstruktor\bin\Debug\Konstruktor.pdb
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.Form1.resources
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.Properties.Resources.resources
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.exe
+C:\Users\info\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.pdb
