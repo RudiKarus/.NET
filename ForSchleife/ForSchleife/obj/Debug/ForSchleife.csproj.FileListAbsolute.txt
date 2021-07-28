@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe.config
+C:\Users\info\source\repos\ForSchleife\ForSchleife\bin\Debug\ForSchleife.exe
+C:\Users\info\source\repos\ForSchleife\ForSchleife\bin\Debug\ForSchleife.pdb
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.Form1.resources
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.Properties.Resources.resources
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csproj.GenerateResource.cache
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.exe
+C:\Users\info\source\repos\ForSchleife\ForSchleife\obj\Debug\ForSchleife.pdb
