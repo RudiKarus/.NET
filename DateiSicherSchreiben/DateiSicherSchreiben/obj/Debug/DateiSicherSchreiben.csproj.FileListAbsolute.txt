@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.exe.config
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.exe
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.pdb
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.Form1.resources
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.Properties.Resources.resources
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.exe
+C:\Users\info\source\repos\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.pdb
