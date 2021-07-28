@@ -1,0 +1,6 @@
+C:\Users\info\source\repos\KonsoleFormat\KonsoleFormat\bin\Debug\KonsoleFormat.exe.config
+C:\Users\info\source\repos\KonsoleFormat\KonsoleFormat\bin\Debug\KonsoleFormat.exe
+C:\Users\info\source\repos\KonsoleFormat\KonsoleFormat\bin\Debug\KonsoleFormat.pdb
+C:\Users\info\source\repos\KonsoleFormat\KonsoleFormat\obj\Debug\KonsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\KonsoleFormat\KonsoleFormat\obj\Debug\KonsoleFormat.exe
+C:\Users\info\source\repos\KonsoleFormat\KonsoleFormat\obj\Debug\KonsoleFormat.pdb
