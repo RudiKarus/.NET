@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\DatumPicker\DatumPicker\bin\Debug\DatumPicker.exe.config
+C:\Users\info\source\repos\DatumPicker\DatumPicker\bin\Debug\DatumPicker.exe
+C:\Users\info\source\repos\DatumPicker\DatumPicker\bin\Debug\DatumPicker.pdb
+C:\Users\info\source\repos\DatumPicker\DatumPicker\obj\Debug\DatumPicker.Form1.resources
+C:\Users\info\source\repos\DatumPicker\DatumPicker\obj\Debug\DatumPicker.Properties.Resources.resources
+C:\Users\info\source\repos\DatumPicker\DatumPicker\obj\Debug\DatumPicker.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatumPicker\DatumPicker\obj\Debug\DatumPicker.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatumPicker\DatumPicker\obj\Debug\DatumPicker.exe
+C:\Users\info\source\repos\DatumPicker\DatumPicker\obj\Debug\DatumPicker.pdb
