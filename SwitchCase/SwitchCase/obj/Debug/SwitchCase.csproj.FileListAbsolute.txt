@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\info\source\repos\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\info\source\repos\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.SwitchCase.resources
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.Properties.Resources.resources
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.GenerateResource.cache
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\info\source\repos\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
