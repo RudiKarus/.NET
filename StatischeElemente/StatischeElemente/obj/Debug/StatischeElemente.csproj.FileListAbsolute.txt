@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.exe.config
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.exe
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.pdb
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.Form1.resources
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.Properties.Resources.resources
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.csproj.GenerateResource.cache
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.exe
+C:\Users\info\source\repos\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.pdb
