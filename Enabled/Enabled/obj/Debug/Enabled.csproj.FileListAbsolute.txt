@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Enabled\Enabled\bin\Debug\Enabled.exe.config
+C:\Users\info\source\repos\Enabled\Enabled\bin\Debug\Enabled.exe
+C:\Users\info\source\repos\Enabled\Enabled\bin\Debug\Enabled.pdb
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.Form1.resources
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.Properties.Resources.resources
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.exe
+C:\Users\info\source\repos\Enabled\Enabled\obj\Debug\Enabled.pdb
