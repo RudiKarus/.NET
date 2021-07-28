@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\bin\Debug\StringTeilzeichenkette.exe.config
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\bin\Debug\StringTeilzeichenkette.exe
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\bin\Debug\StringTeilzeichenkette.pdb
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.Form1.resources
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.Properties.Resources.resources
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.csproj.GenerateResource.cache
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.exe
+C:\Users\info\source\repos\StringTeilzeichenkette\StringTeilzeichenkette\obj\Debug\StringTeilzeichenkette.pdb
