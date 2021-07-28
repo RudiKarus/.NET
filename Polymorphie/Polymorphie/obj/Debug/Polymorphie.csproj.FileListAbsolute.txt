@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Polymorphie\Polymorphie\bin\Debug\Polymorphie.exe.config
+C:\Users\info\source\repos\Polymorphie\Polymorphie\bin\Debug\Polymorphie.exe
+C:\Users\info\source\repos\Polymorphie\Polymorphie\bin\Debug\Polymorphie.pdb
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.Form1.resources
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.Properties.Resources.resources
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.exe
+C:\Users\info\source\repos\Polymorphie\Polymorphie\obj\Debug\Polymorphie.pdb
