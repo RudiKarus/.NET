@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\Methoden\Methoden\bin\Debug\Methoden.exe.config
+C:\Users\info\source\repos\Methoden\Methoden\bin\Debug\Methoden.exe
+C:\Users\info\source\repos\Methoden\Methoden\bin\Debug\Methoden.pdb
+C:\Users\info\source\repos\Methoden\Methoden\obj\Debug\Methoden.Form1.resources
+C:\Users\info\source\repos\Methoden\Methoden\obj\Debug\Methoden.Properties.Resources.resources
+C:\Users\info\source\repos\Methoden\Methoden\obj\Debug\Methoden.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Methoden\Methoden\obj\Debug\Methoden.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Methoden\Methoden\obj\Debug\Methoden.exe
+C:\Users\info\source\repos\Methoden\Methoden\obj\Debug\Methoden.pdb
