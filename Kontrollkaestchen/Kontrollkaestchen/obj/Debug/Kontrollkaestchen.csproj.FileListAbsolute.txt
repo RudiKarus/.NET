@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\bin\Debug\Kontrollkaestchen.exe.config
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\bin\Debug\Kontrollkaestchen.exe
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\bin\Debug\Kontrollkaestchen.pdb
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.Form1.resources
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.Properties.Resources.resources
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.exe
+C:\Users\info\source\repos\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.pdb
