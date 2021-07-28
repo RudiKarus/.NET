@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DateiLesen\DateiLesen\bin\Debug\DateiLesen.exe.config
+C:\Users\info\source\repos\DateiLesen\DateiLesen\bin\Debug\DateiLesen.exe
+C:\Users\info\source\repos\DateiLesen\DateiLesen\bin\Debug\DateiLesen.pdb
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.Form1.resources
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.Properties.Resources.resources
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.exe
+C:\Users\info\source\repos\DateiLesen\DateiLesen\obj\Debug\DateiLesen.pdb
