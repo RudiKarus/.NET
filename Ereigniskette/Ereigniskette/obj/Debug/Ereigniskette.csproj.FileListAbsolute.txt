@@ -1,0 +1,10 @@
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\bin\Debug\Ereigniskette.exe.config
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\bin\Debug\Ereigniskette.exe
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\bin\Debug\Ereigniskette.pdb
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.csprojResolveAssemblyReference.cache
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.Form1.resources
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.Properties.Resources.resources
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.csproj.GenerateResource.cache
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.csproj.CoreCompileInputs.cache
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.exe
+E:\OneDrive\_PROJEKT\_e-LD\_C#\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.pdb
