@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\bin\Debug\ArgumenteOptional.exe.config
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\bin\Debug\ArgumenteOptional.exe
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\bin\Debug\ArgumenteOptional.pdb
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.Form1.resources
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.Properties.Resources.resources
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.csproj.GenerateResource.cache
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.exe
+C:\Users\info\source\repos\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.pdb
