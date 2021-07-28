@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\bin\Debug\OptionsGruppen.exe.config
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\bin\Debug\OptionsGruppen.exe
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\bin\Debug\OptionsGruppen.pdb
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.Form1.resources
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.Properties.Resources.resources
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.exe
+C:\Users\info\source\repos\OptionsGruppen\OptionsGruppen\obj\Debug\OptionsGruppen.pdb
