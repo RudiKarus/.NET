@@ -1,0 +1,26 @@
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.pdb
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe.config
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.pdb
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Form1.resources
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Properties.Resources.resources
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.csproj.GenerateResource.Cache
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.exe
+D:\_TT\Word\Beruf\VC#2017_Buch\Projekte\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.pdb
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe.config
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.pdb
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Form1.resources
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Properties.Resources.resources
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.exe
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.pdb
+C:\Users\info\source\repos\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.csprojResolveAssemblyReference.cache
