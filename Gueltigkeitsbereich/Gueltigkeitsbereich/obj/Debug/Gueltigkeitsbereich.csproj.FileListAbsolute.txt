@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\bin\Debug\Gueltigkeitsbereich.exe.config
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\bin\Debug\Gueltigkeitsbereich.exe
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\bin\Debug\Gueltigkeitsbereich.pdb
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.Form1.resources
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.Properties.Resources.resources
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.exe
+C:\Users\info\source\repos\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.pdb
