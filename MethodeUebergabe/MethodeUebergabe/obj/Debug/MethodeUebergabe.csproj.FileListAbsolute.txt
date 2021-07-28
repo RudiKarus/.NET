@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\bin\Debug\MethodeUebergabe.exe.config
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\bin\Debug\MethodeUebergabe.exe
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\bin\Debug\MethodeUebergabe.pdb
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.Form1.resources
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.Properties.Resources.resources
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.csproj.GenerateResource.cache
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.exe
+C:\Users\info\source\repos\MethodeUebergabe\MethodeUebergabe\obj\Debug\MethodeUebergabe.pdb
