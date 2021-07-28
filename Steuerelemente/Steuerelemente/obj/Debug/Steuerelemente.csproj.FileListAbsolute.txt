@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\bin\Debug\Steuerelemente.exe.config
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\bin\Debug\Steuerelemente.exe
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\bin\Debug\Steuerelemente.pdb
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.Form1.resources
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.Properties.Resources.resources
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.exe
+C:\Users\info\source\repos\Steuerelemente\Steuerelemente\obj\Debug\Steuerelemente.pdb
