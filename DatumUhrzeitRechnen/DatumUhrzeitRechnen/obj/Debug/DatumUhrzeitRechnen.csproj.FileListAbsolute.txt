@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\bin\Debug\DatumUhrzeitRechnen.exe.config
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\bin\Debug\DatumUhrzeitRechnen.exe
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\bin\Debug\DatumUhrzeitRechnen.pdb
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.Form1.resources
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.Properties.Resources.resources
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.exe
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.pdb
+C:\Users\info\source\repos\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.csprojResolveAssemblyReference.cache
