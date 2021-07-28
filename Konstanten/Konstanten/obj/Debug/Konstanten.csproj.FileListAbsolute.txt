@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Konstanten\Konstanten\bin\Debug\Konstanten.exe.config
+C:\Users\info\source\repos\Konstanten\Konstanten\bin\Debug\Konstanten.exe
+C:\Users\info\source\repos\Konstanten\Konstanten\bin\Debug\Konstanten.pdb
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.KonstantenEnumeration.resources
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.Properties.Resources.resources
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.exe
+C:\Users\info\source\repos\Konstanten\Konstanten\obj\Debug\Konstanten.pdb
