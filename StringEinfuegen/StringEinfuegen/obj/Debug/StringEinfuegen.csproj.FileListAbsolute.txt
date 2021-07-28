@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.Form1.resources
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.Properties.Resources.resources
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\bin\Debug\StringEinfuegen.exe.config
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\bin\Debug\StringEinfuegen.exe
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\bin\Debug\StringEinfuegen.pdb
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.exe
+C:\Users\info\source\repos\StringEinfuegen\StringEinfuegen\obj\Debug\StringEinfuegen.pdb
