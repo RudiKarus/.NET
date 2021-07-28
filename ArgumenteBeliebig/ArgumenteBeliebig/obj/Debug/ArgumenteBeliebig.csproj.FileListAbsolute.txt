@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\bin\Debug\ArgumenteBeliebig.exe.config
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\bin\Debug\ArgumenteBeliebig.exe
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\bin\Debug\ArgumenteBeliebig.pdb
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.Form1.resources
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.Properties.Resources.resources
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.csproj.GenerateResource.cache
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.exe
+C:\Users\info\source\repos\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.pdb
