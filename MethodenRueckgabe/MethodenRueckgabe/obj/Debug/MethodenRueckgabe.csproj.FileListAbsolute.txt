@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\bin\Debug\MethodenRueckgabe.exe.config
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\bin\Debug\MethodenRueckgabe.exe
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\bin\Debug\MethodenRueckgabe.pdb
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.Form1.resources
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.Properties.Resources.resources
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.csproj.GenerateResource.cache
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.exe
+C:\Users\info\source\repos\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.pdb
