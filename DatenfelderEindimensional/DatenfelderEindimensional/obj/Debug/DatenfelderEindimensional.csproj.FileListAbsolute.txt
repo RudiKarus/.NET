@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\bin\Debug\DatenfelderEindimensional.exe.config
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\bin\Debug\DatenfelderEindimensional.exe
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\bin\Debug\DatenfelderEindimensional.pdb
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.Form1.resources
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.Properties.Resources.resources
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.exe
+C:\Users\info\source\repos\DatenfelderEindimensional\DatenfelderEindimensional\obj\Debug\DatenfelderEindimensional.pdb
