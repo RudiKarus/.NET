@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Kran\Kran\bin\Debug\Kran.exe.config
+C:\Users\info\source\repos\Kran\Kran\bin\Debug\Kran.exe
+C:\Users\info\source\repos\Kran\Kran\bin\Debug\Kran.pdb
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.Form1.resources
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.Properties.Resources.resources
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.exe
+C:\Users\info\source\repos\Kran\Kran\obj\Debug\Kran.pdb
