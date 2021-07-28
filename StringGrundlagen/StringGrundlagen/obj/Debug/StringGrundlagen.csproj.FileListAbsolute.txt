@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\bin\Debug\StringGrundlagen.exe.config
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\bin\Debug\StringGrundlagen.exe
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\bin\Debug\StringGrundlagen.pdb
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.Form1.resources
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.Properties.Resources.resources
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.exe
+C:\Users\info\source\repos\StringGrundlagen\StringGrundlagen\obj\Debug\StringGrundlagen.pdb
