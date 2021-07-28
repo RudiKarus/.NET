@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.Form1.resources
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.Properties.Resources.resources
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Strukturen\Strukturen\bin\Debug\Strukturen.exe.config
+C:\Users\info\source\repos\Strukturen\Strukturen\bin\Debug\Strukturen.exe
+C:\Users\info\source\repos\Strukturen\Strukturen\bin\Debug\Strukturen.pdb
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.exe
+C:\Users\info\source\repos\Strukturen\Strukturen\obj\Debug\Strukturen.pdb
