@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Listenfelder\Listenfelder\bin\Debug\Listenfelder.exe.config
+C:\Users\info\source\repos\Listenfelder\Listenfelder\bin\Debug\Listenfelder.exe
+C:\Users\info\source\repos\Listenfelder\Listenfelder\bin\Debug\Listenfelder.pdb
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.Form1.resources
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.Properties.Resources.resources
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.exe
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.pdb
+C:\Users\info\source\repos\Listenfelder\Listenfelder\obj\Debug\Listenfelder.csprojResolveAssemblyReference.cache
