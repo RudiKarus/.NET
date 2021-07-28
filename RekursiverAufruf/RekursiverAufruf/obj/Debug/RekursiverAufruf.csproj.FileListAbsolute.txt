@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe.config
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.pdb
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Form1.resources
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Properties.Resources.resources
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csproj.GenerateResource.cache
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.exe
+C:\Users\info\source\repos\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.pdb
