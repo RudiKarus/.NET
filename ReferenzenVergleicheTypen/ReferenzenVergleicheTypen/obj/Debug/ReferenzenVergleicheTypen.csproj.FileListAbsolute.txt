@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\bin\Debug\ReferenzenVergleicheTypen.exe.config
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\bin\Debug\ReferenzenVergleicheTypen.exe
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\bin\Debug\ReferenzenVergleicheTypen.pdb
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.Form1.resources
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.Properties.Resources.resources
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.exe
+C:\Users\info\source\repos\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.pdb
