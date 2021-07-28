@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe.config
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.pdb
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Form1.resources
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Properties.Resources.resources
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.exe
+C:\Users\info\source\repos\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.pdb
