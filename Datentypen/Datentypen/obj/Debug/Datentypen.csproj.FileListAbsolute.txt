@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Datentypen\Datentypen\bin\Debug\Datentypen.exe.config
+C:\Users\info\source\repos\Datentypen\Datentypen\bin\Debug\Datentypen.exe
+C:\Users\info\source\repos\Datentypen\Datentypen\bin\Debug\Datentypen.pdb
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.Form1.resources
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.Properties.Resources.resources
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.exe
+C:\Users\info\source\repos\Datentypen\Datentypen\obj\Debug\Datentypen.pdb
