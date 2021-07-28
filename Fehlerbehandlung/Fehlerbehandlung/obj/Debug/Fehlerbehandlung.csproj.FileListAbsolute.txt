@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\bin\Debug\Fehlerbehandlung.exe.config
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\bin\Debug\Fehlerbehandlung.exe
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\bin\Debug\Fehlerbehandlung.pdb
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.Form1.resources
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.Properties.Resources.resources
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.exe
+C:\Users\info\source\repos\Fehlerbehandlung\Fehlerbehandlung\obj\Debug\Fehlerbehandlung.pdb
