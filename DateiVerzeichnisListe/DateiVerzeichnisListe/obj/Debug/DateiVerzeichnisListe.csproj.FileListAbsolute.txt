@@ -1,0 +1,9 @@
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.exe.config
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.exe
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.pdb
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.Form1.resources
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.Properties.Resources.resources
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.exe
+C:\Users\info\source\repos\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.pdb
