@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.exe.config
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.exe
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.pdb
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.Form1.resources
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.Properties.Resources.resources
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.exe
+C:\Users\info\source\repos\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.pdb
