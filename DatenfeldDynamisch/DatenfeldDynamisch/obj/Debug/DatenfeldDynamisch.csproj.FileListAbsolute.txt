@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\bin\Debug\DatenfeldDynamisch.exe.config
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\bin\Debug\DatenfeldDynamisch.exe
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\bin\Debug\DatenfeldDynamisch.pdb
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.Form1.resources
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.Properties.Resources.resources
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.exe
+C:\Users\info\source\repos\DatenfeldDynamisch\DatenfeldDynamisch\obj\Debug\DatenfeldDynamisch.pdb
