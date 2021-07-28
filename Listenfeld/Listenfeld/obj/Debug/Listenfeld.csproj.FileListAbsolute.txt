@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\Listenfeld\Listenfeld\bin\Debug\Listenfeld.exe.config
+C:\Users\info\source\repos\Listenfeld\Listenfeld\bin\Debug\Listenfeld.exe
+C:\Users\info\source\repos\Listenfeld\Listenfeld\bin\Debug\Listenfeld.pdb
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.Form1.resources
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.Properties.Resources.resources
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.csproj.GenerateResource.cache
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.exe
+C:\Users\info\source\repos\Listenfeld\Listenfeld\obj\Debug\Listenfeld.pdb
