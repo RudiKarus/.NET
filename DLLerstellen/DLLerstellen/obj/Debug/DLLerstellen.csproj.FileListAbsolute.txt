@@ -1,0 +1,6 @@
+C:\Users\info\source\repos\DLLerstellen\DLLerstellen\bin\Debug\DLLerstellen.dll
+C:\Users\info\source\repos\DLLerstellen\DLLerstellen\bin\Debug\DLLerstellen.pdb
+C:\Users\info\source\repos\DLLerstellen\DLLerstellen\obj\Debug\DLLerstellen.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DLLerstellen\DLLerstellen\obj\Debug\DLLerstellen.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DLLerstellen\DLLerstellen\obj\Debug\DLLerstellen.dll
+C:\Users\info\source\repos\DLLerstellen\DLLerstellen\obj\Debug\DLLerstellen.pdb
