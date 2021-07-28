@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.exe.config
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.exe
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.pdb
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.Form1.resources
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.Properties.Resources.resources
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.csproj.GenerateResource.cache
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.exe
+C:\Users\info\source\repos\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.pdb
