@@ -1,0 +1,10 @@
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\bin\Debug\DBZugriffAccess.exe.config
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\bin\Debug\DBZugriffAccess.exe
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\bin\Debug\DBZugriffAccess.pdb
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.csprojResolveAssemblyReference.cache
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.Form1.resources
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.Properties.Resources.resources
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.csproj.GenerateResource.cache
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.exe
+C:\Users\info\source\repos\DBZugriffAccess\DBZugriffAccess\obj\Debug\DBZugriffAccess.pdb
